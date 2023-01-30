@@ -3,3 +3,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> # Creating a project for GitHub
 >>> # By Macy Vance
 >>> 
+>>> print("COP2002 Fall 2023")
+COP2002 Fall 2023
